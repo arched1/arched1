@@ -1,13 +1,10 @@
 ### Hi there 👋
-
-<!--
-**arched1/arched1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 # I'm currently researching the genetic contributions to white matter decline in aging and Alzheimer's disease. 
 
 #Educational background
-*Bachelor's Degree in Biomedical Engineering: Rose-Hulman Institute of Technology (2012)
-*Ph.D. in Biobehavioral Science: University of Florida (2020)
+* Bachelor's Degree in Biomedical Engineering: Rose-Hulman Institute of Technology (2012)
+* Ph.D. in Biobehavioral Science: University of Florida (2020)
 
 
 #Primary Author Publications
@@ -20,15 +17,3 @@
 * Visual feedback alters force control and functional activity in the visuomotor network after stroke *NeuroImage: Clinical* (2018)
 * Free‐water and free‐water corrected fractional anisotropy in primary and premotor corticospinal tracts in chronic stroke *Human Brain Mapping* (2017)
 * Microstructural properties of premotor pathways predict visuomotor performance in chronic stroke *Human Brain Mapping* (2016)
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
