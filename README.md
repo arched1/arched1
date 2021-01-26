@@ -1,13 +1,12 @@
-### Hi there 👋
 -->
-# I'm currently researching the genetic contributions to white matter decline in aging and Alzheimer's disease. 
+### I'm currently researching the genetic contributions to white matter decline in aging and Alzheimer's disease. 
 
-#Educational background
+### Educational background
 * Bachelor's Degree in Biomedical Engineering: Rose-Hulman Institute of Technology (2012)
 * Ph.D. in Biobehavioral Science: University of Florida (2020)
 
 
-#Primary Author Publications
+### Primary Author Publications
 * Free-water metrics in medial temporal lobe white matter tract projections relate to longitudinal cognitive decline *Neurobiology of Aging* (2020)
 * Magnetic resonance imaging and neurofilament light in the differentiation of parkinsonism *Movement Disorders* (2020)
 * Development of a transcallosal tractography template and its application to dementia *Neuroimage* (2019)
