@@ -1,4 +1,8 @@
--->
+
+###Contact Information
+* Email: derek.archer@vumc.org
+* Phone: (812) 259-0687
+
 ### I'm currently researching the genetic contributions to white matter decline in aging and Alzheimer's disease. 
 
 ### Educational background
